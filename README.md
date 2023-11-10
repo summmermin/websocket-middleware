@@ -1,6 +1,6 @@
 # tws-project
 
-This template should help get you started developing with Vue 3 in Vite.
+본 프로젝트는 클라이언트 - 웹서버를 구현하면서, 미들웨어 웹소켓을 공부하기 위한 목적으로 만들었습니다.
 
 ## Recommended IDE Setup
 
